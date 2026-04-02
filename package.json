@@ -1,0 +1,13 @@
+{
+  "name": "exam_vishchun",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "start": "echo 'Run specific demo files'",
+    "test": "echo 'No tests configured'"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
